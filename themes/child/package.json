@@ -1,0 +1,9 @@
+{
+  "name": "child",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.1.18"
+  }
+}
