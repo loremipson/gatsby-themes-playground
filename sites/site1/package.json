@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-theme-site1",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.1.19"
+  }
+}
