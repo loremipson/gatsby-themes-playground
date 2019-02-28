@@ -1,8 +1,7 @@
 {
   "packages": [
     "packages/*",
-    "themes/*",
-    "sites/*"
+    "themes/*"
   ],
   "version": "0.0.0",
   "npmClient": "yarn",
